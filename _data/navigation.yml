@@ -9,13 +9,13 @@ main:
 
   - title: "Publications"
     url: ./#publications
-<! --
+<!--
   - title: "Projects"
     url: ./#projects
 
   - title: "News"
     url: ./#news
--- >
+-->
   - title: "Blogs"
     url: ./blog/
 
