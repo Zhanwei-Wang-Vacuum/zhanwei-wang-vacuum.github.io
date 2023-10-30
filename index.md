@@ -12,7 +12,6 @@ I am currently a Ph.D. candidate at [Vrije Universiteit Brussel](https://www.vub
 - **Additive Manufacturing:** Soft and multi-functional materials 3D printing.
 - **Simulations:** Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA).
 - **Microfluidics:** Microfluidic chips development and its potential for soft robots.
-{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/publications.md %}
 
@@ -23,6 +22,8 @@ I am currently a Ph.D. candidate at [Vrije Universiteit Brussel](https://www.vub
 
 
 <!-- 
+{% include_relative _includes/projects.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/teaching.md %}
