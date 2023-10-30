@@ -1,7 +1,7 @@
 main:
 
   - title: International Symposium on Smart Materials
-    conference_short: International Symposium on Smart Materials
+    conference_short: PCCL
     conference: International Symposium on Smart Materials - The Polymer Competence Center Leoben (PCCL)
     web: https://www.pccl.at/news-de/news-de-2/982-international-symposium-on-smart-materials-14-bis-15-juni-2023.html
     image: ./assets/img/pccl2023.png
@@ -13,7 +13,7 @@ main:
     image: ./assets/files/iros2022.png
 
   - title: Self-healing multi-material optimization and voxel-based design
-    conference_short: SMART Winter School
+    conference_short: SMART
     conference:  1st International Winter School on Smart Materials for Soft Robots - University of Cambridge
     web: http://smartsummer.eu/
     image: ./assets/img/smart2021.png
