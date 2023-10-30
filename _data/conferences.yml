@@ -10,7 +10,7 @@ main:
     authors: Zhanwei Wang, Seppe Terryn, Julie Legrand, Pasquale Ferrentino, Seyedreza Kashef Tabrizian, Joost Brancart, Ellen Roels, Guy Van Assche, Bram Vanderborght
     conference_short: IROS
     conference: The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems
-    image: ./assets/files/iros2022.png
+    image: ./assets/img/iros2022.png
 
   - title: Self-healing multi-material optimization and voxel-based design
     conference_short: SMART
