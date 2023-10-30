@@ -1,0 +1,70 @@
+# Basic Information 
+title: Zhanwei Wang
+position: Ph.D. Candidate
+affiliation: Vrije Universiteit Brussel
+subaffiliation: Brubotics 
+affiliation_link: https://www.vub.be/en
+subaffiliation_link: https://www.brubotics.eu/
+affiliation_logo: ./assets/img/spinion.svg
+email: wzw_vacuum@outlook.com
+email2: zhanwei.wang@vub.be
+address: VUB - Vrije Universiteit Brussel Building Z, Pleinlaan 2, 1050 Elsene
+address_link: https://maps.app.goo.gl/SVU5XJpMPJsAbwf78
+
+# Search Engine Optimization (SEO)
+keywords: zhanwei wang, wang zhanwei, zhanweiwang, wangzhanwei
+canonical: https://minimal-light-theme.yliu.me/
+description: Zhanwei Wang is a Ph.D. canditate at Vrije Universiteit Brussel and IMEC. His research focuses on the fabrication and actuation of soft robots using advanced smart materials and fluid mechanics. Specifically, he is investigating the interaction between vacuum or multiphase fluids and soft materials, with the goal of enhancing the physical intelligence of soft robotics.
+
+# The option is used to enable the Johns Hopkins template.
+enable_hopkins_logo: false
+
+# The option is used to show the last update time.
+enable_last_update: false
+
+# Links
+google_scholar: https://scholar.google.be/citations?user=j76khOMAAAAJ&hl=zh-CN
+cv_link: 
+linkedin: www.linkedin.com/in/zhanwei-wang-88557a20a
+twitter: 
+researchgate: https://www.researchgate.net/profile/Zhanwei-Wang-5
+
+# Images 
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+
+# Footnotes
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: false
+#footnote: Feel free to use my website's source code.
+#footnote_link: https://github.com/yaoyao-liu/minimal-light
+
+# Analytics
+# Please remove the following lines about analytics services if you fork my project. 
+# Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
+# clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+
+
+# The following files will be removed from the generated website.
+exclude:
+  - build.sh
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME

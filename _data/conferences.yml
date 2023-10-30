@@ -1,0 +1,26 @@
+main:
+
+  - title: Topology optimized multi-material self-healing actuator with reduced out of plane deformation
+    authors: Zhanwei Wang, Seppe Terryn, Julie Legrand, Pasquale Ferrentino, Seyedreza Kashef Tabrizian, Joost Brancart, Ellen Roels, Guy Van Assche, Bram Vanderborght
+    conference_short: IROS
+    conference: The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    pdf: ./assets/files/JEMS2023_Song.pdf
+    web: https://www.jems2023.es/
+    image: ./assets/files/JEMS2023_2.jpg
+    notes: Accepted
+
+  - title: BeMAGIC CONFERENCE IN TORINO – POST EVENT
+    conference_short: BeMAGIC
+    conference: BeMAGIC CONFERENCE IN TORINO
+    abstract: The BeMAGIC conference in Torino, entitled “Beyond Magnetoelectric Materials”, was successfully organized by the network ESRs (Early Stage Researchers). This event took place on 12-15 June 2023 at the Starhotel Majestic, Torino, Italy. The programme included 15 top-class experts in the magnetoelectric field, who delivered lectures on the following topics&#58; multiferroics, surface charging, magnetoionics and applications in healthcare, energy efficiency and cybersecurity.
+    pdf: https://bemagic-etn.eu/images/files2023/BeMAGIC_Conference_Torino_2023.pdf
+    web: https://bemagic-etn.eu/news/79-bemagic-conference-in-torino-2023-post-event
+    image: ./assets/img/Group_picture.jpg
+
+  - title: BeMAGIC Winter School - ETH Zürich
+    conference_short: BeMAGIC
+    conference:  BeMAGIC Winter School&#58; Magnetoelectricity in biomedicine healthcare for the 21st century ETH Zürich
+    abstract: The BeMAGIC Winter School, entitled&#58; “Magnetoelectricity in biomedicine&#58; healthcare for the 21st century”, took place in Zurich from November 8 to 12, 2021. 
+    #pdf: https://bemagic-etn.eu/images/files2021/BeMAGIC_Winter_School_ETHZ_agenda.pdf
+    web: https://bemagic-etn.eu/news/68-bemagic-winter-school-post-event
+    image: ./assets/img/eth.jpg
