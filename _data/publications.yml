@@ -2,21 +2,21 @@ main:
 
   - title: Self-closing and self-healing multi-material suction cups for energy-efficient vacuum grippers
     authors: <strong>Zhanwei Wang</strong>, Seppe Terryn, Huijiang Wang, Julie Legrand, Ali Safaei, Joost Brancart, Guy Van Assche, Bram Vanderborght
-    conference_short: Advanced Intelligent Systems
+    conference_short: Wiley
     conference: Advanced Intelligent Systems
     page: https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300135
     image: ./assets/img/sc2023.png
 
   - title: Self‐Regulated Self‐Healing Robotic Gripper for Resilient and Adaptive Grasping
     authors: Huijiang Wang, Seppe Terryn, <strong>Zhanwei Wang</strong>, Guy Van Assche, Fumiya Iida, Bram Vanderborght
-    conference_short: Advanced Intelligent Systems
+    conference_short: Wiley
     conference: Advanced Intelligent Systems
     page: https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300223
     image: ./assets/img/shug2023.png
     
   - title: Fast Self-Healing at Room Temperature in Diels–Alder Elastomers
     authors: Ali Safaei, Joost Brancart, <strong>Zhanwei Wang</strong>, Sogol Yazdani, Bram Vanderborght, Guy Van Assche, Seppe Terryn
-    conference_short: Polymers
+    conference_short: MDPI
     conference: Polymers
     page: https://www.mdpi.com/2073-4360/15/17/3527
     image: ./assets/img/fastheal2023.png
