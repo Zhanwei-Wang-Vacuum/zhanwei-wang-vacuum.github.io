@@ -26,6 +26,6 @@ main:
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems
     page: https://ieeexplore.ieee.org/abstract/document/9981297
-    image: ./assets/img/iros2022.png
+    image: ./assets/img/iroscover2022.png
 
   
