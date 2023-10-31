@@ -10,8 +10,5 @@ main:
   - title: "Publications"
     url: ./#publications
 
-  - title: "Blogs"
-    url: ./blog/
-
   - title: "Bio"
     url: ./#about-me
