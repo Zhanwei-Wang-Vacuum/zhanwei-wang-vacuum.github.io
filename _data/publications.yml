@@ -5,6 +5,7 @@ main:
     conference_short: Wiley
     conference: Advanced Intelligent Systems
     page: https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300135
+    video: https://youtu.be/ntjHHIjvCeg?si=4v9mkOxUlbOylCuh
     image: ./assets/img/sc2023.png
 
   - title: Self‐Regulated Self‐Healing Robotic Gripper for Resilient and Adaptive Grasping
@@ -12,7 +13,7 @@ main:
     conference_short: Wiley
     conference: Advanced Intelligent Systems
     page: https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300223
-    video: https://youtu.be/ntjHHIjvCeg?si=4v9mkOxUlbOylCuh
+    video: https://youtu.be/96Zf6kjGASw?si=f9QiXCyaIKaYF7GW
     image: ./assets/img/shug2023.png
     
   - title: Fast Self-Healing at Room Temperature in Diels–Alder Elastomers
