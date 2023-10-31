@@ -12,6 +12,7 @@ main:
     conference_short: Wiley
     conference: Advanced Intelligent Systems
     page: https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202300223
+    video: https://youtu.be/ntjHHIjvCeg?si=4v9mkOxUlbOylCuh
     image: ./assets/img/shug2023.png
     
   - title: Fast Self-Healing at Room Temperature in Diels–Alder Elastomers
