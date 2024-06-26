@@ -1,5 +1,10 @@
 main:
-
+  - title: IMEC ITF World 2024
+    conference_short: IMEC
+    conference: Self-closing suction cup technology demonstrations at IMEC ITF World 2024
+    web: https://www.imec-int.com/en/events/itf-world-2024
+    image: ./assets/img/IMEC ITF 2024.png
+    
   - title: International Symposium on Smart Materials
     conference_short: PCCL
     conference: International Symposium on Smart Materials - The Polymer Competence Center Leoben (PCCL)
