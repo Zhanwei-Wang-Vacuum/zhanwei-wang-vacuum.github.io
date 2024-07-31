@@ -8,6 +8,12 @@ main:
     video: https://youtu.be/ntjHHIjvCeg?si=4v9mkOxUlbOylCuh
     image: ./assets/img/sc2023.png
 
+  - title: Sub-zero self-healable and fatigue resistant conductive ionoelastomers for sensorized soft pneumatic robots
+    authors: Yang Wang, <strong>Zhanwei Wang</strong>, Fatma Demir, Yinxin Cai, Zijin Liu, Jing Ren, Guy Van Assche, Shengjie Ling, Bram Vanderborght, Seppe Terryn
+    conference: Journal of Materials Chemistry A
+    page: https://pubs.rsc.org/en/journals/journalissues/ta#!recentarticles
+    image: ./assets/img/sc2023.png
+
   - title: Self‐Regulated Self‐Healing Robotic Gripper for Resilient and Adaptive Grasping
     authors: Huijiang Wang, Seppe Terryn, <strong>Zhanwei Wang</strong>, Guy Van Assche, Fumiya Iida, Bram Vanderborght
     conference_short: Wiley
