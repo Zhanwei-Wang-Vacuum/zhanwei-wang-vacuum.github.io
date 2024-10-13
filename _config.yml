@@ -7,14 +7,14 @@ affiliation_link: https://www.vub.be/en
 subaffiliation_link: https://www.brubotics.eu/
 affiliation_logo: ./assets/img/vub.svg
 email: wzw_vacuum@outlook.com
-email2: zhanwei.wang@vub.be
+email2: zhanwei.wang@imec.be
 address: Pleinlaan 2, 1050 Bruxelles
 address_link: https://maps.app.goo.gl/SVU5XJpMPJsAbwf78
 
 # Search Engine Optimization (SEO)
 keywords: zhanwei wang, wang zhanwei, zhanweiwang, wangzhanwei
 canonical: https://minimal-light-theme.yliu.me/
-description: Zhanwei Wang is a Ph.D. canditate at Vrije Universiteit Brussel and IMEC. His research focuses on the fabrication and actuation of soft robots using advanced smart materials and fluid mechanics. Specifically, he is investigating the interaction between vacuum or multiphase fluids and soft materials, with the goal of enhancing the physical intelligence of soft robotics.
+description: Zhanwei Wang is a Postdoc researcher at IMEC and Vrije Universiteit Brussel. His research focuses on the fabrication and actuation of soft robots using advanced smart materials and fluid mechanics. Specifically, he is investigating the interaction between vacuum or multiphase fluids and soft materials, with the goal of enhancing the physical intelligence of soft robotics.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
