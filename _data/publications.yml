@@ -12,19 +12,19 @@ main:
     authors: <strong>Zhanwei Wang</strong>, et al.
     conference: IEEE Transactions on Robotics (under review)
     page: undefined
-    image: undefined
+    image: ./assets/img/Crease-free.png
   
   - title: Pure hard encoded embodied intelligence in soft robots and a versatile gripper
     authors: <strong>Zhanwei Wang</strong>, et al.
     conference: IEEE Robotics and Automation Magazine
     page: undefined
-    image: undefined
+    image: ./assets/img/multimodal_gripper.png
 
   - title: A variable sensing range electrical impedance tomography sensor for robot electric skins
     authors: <strong>Zhanwei Wang</strong>, et al.
     conference: IEEE Robotics and Automation Letters
     page: undefined
-    image: undefined
+    image: ./assets/img/veskin.png
 
   - title: A Structure Modality Enhanced Multimodal Imaging Method for Electrical Impedance Tomography Pressure Distribution Measurement
     authors: Yang Wang, <strong>Zhanwei Wang</strong>, Fatma Demir, Yinxin Cai, Zijin Liu, Jing Ren, Guy Van Assche, Shengjie Ling, Bram Vanderborght, Seppe Terryn
