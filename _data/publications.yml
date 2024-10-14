@@ -16,13 +16,13 @@ main:
   
   - title: Pure hard encoded embodied intelligence in soft robots and a versatile gripper
     authors: <strong>Zhanwei Wang</strong>, et al.
-    conference: IEEE Robotics and Automation Magazine
+    conference: IEEE Robotics and Automation Magazine (under review)
     page: undefined
-    image: ./assets/img/multimodal_gripper.png
+    image: ./assets/img/Multimodal_gripper.png
 
   - title: A variable sensing range electrical impedance tomography sensor for robot electric skins
     authors: <strong>Zhanwei Wang</strong>, et al.
-    conference: IEEE Robotics and Automation Letters
+    conference: IEEE Robotics and Automation Letters (under review)
     page: undefined
     image: ./assets/img/veskin.png
 
