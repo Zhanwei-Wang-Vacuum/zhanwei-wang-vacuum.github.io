@@ -1,4 +1,10 @@
 main:
+  - title: Pfizer Innovation Day 2024
+    conference_short: Pfizer
+    conference: Self-closing vacuum gripper solutions for Pfizer
+    web: https://www.pfizer.nl/kalender
+    image: ./assets/img/Pfizer.png
+    
   - title: IMEC ITF World 2024
     conference_short: IMEC
     conference: Self-closing suction cup technology demonstrations at IMEC ITF World 2024
