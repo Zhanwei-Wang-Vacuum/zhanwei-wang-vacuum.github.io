@@ -16,17 +16,17 @@ main:
     image: ./assets/img/Crease-free.png
   
   - title: Pure hard encoded embodied intelligence in soft robots and a versatile gripper
-    authors: <strong>Zhanwei Wang</strong>, et al.
+    authors: <strong>Zhanwei Wang</strong>, Chen Huaijin, Hendrik Cools, Bram Vanderborght, Seppe Terryn.
     conference_short: IEEE
-    conference: IEEE Robotics and Automation Magazine (under review)
+    conference: IEEE Robotics and Automation Magazine
     page: undefined
     image: ./assets/img/Multimodal_gripper.png
 
   - title: A variable sensing range electrical impedance tomography sensor for robot electric skins
-    authors: <strong>Zhanwei Wang</strong>, et al.
+    authors: <strong>Zhanwei Wang</strong>, Huaijin Chen, Ke Wang, Bram Vanderborght, Seppe Terryn.
     conference_short: IEEE
-    conference: IEEE Robotics and Automation Letters (under review)
-    page: undefined
+    conference: IEEE Robotics and Automation Letters
+    page: https://ieeexplore.ieee.org/document/10854644
     image: ./assets/img/veskin.png
 
   - title: A Structure Modality Enhanced Multimodal Imaging Method for Electrical Impedance Tomography Pressure Distribution Measurement
