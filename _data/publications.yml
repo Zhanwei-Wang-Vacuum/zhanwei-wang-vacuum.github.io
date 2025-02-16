@@ -15,7 +15,7 @@ main:
     page: undefined
     image: ./assets/img/Crease-free.png
   
-  - title: Integrating Software-Less Reflex Mechanisms Into Soft Robots and a Versatile Gripper: A New Bistable Method
+  - title: Integrating Software-Less Reflex Mechanisms Into Soft Robots and a Versatile Gripper
     authors: <strong>Zhanwei Wang</strong>, Chen Huaijin, Hendrik Cools, Bram Vanderborght, Seppe Terryn.
     conference_short: IEEE
     conference: IEEE Robotics and Automation Magazine
