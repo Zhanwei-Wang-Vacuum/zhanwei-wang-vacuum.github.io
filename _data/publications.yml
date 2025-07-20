@@ -9,7 +9,7 @@ main:
     image: ./assets/img/sc2023.png
 
   - title: 3D printable crease-free origami vacuum bending actuators for soft robots
-    authors: <strong>Zhanwei Wang</strong>, et al.
+    authors: <strong>Zhanwei Wang</strong>, Huaijin Chen, Syeda Shadab Zehra Zaidi, Ellen Roels, Hendrik Cools, Bram Vanderborght, Seppe Terryn.
     conference_short: IEEE
     conference: IEEE Transactions on Robotics
     page: https://ieeexplore.ieee.org/document/11079234
