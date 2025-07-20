@@ -11,8 +11,9 @@ main:
   - title: 3D printable crease-free origami vacuum bending actuators for soft robots
     authors: <strong>Zhanwei Wang</strong>, et al.
     conference_short: IEEE
-    conference: IEEE Transactions on Robotics (under review)
-    page: undefined
+    conference: IEEE Transactions on Robotics
+    page: https://ieeexplore.ieee.org/document/11079234
+    video: https://www.youtube.com/watch?v=ZAHmhGE_f-M
     image: ./assets/img/Crease-free.png
   
   - title: Integrating Software-Less Reflex Mechanisms Into Soft Robots and a Versatile Gripper
