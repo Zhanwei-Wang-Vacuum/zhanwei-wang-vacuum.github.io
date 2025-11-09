@@ -14,8 +14,13 @@ I am a Postdoc researcher at [Interuniversity Microelectronics Centre](https://w
 - **Microfluidics:** Microfluidic chips development and its potential for soft robots.
 
 ## News:
+- **CSC-VUB Scholarship Programmes:** Brubotics calls for PhD candidates. [Welcome reach out to us and apply](https://www.vub.be/en/studying-vub/practical-info-for-students/how-much-does-studying-cost/financial-support/csc-vub-scholarship-programme). [Research Topics](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.vub.be%2Fsites%2Fdefault%2Ffiles%2F2025-10%2FCSC-VUB%2520PhD%2520Topics%25202026.xlsx&wdOrigin=BROWSELINK) include:
+ - BIOSHARP: Biomimetic self-healing soft robots via additive manufacturing of reversible polymers.
+ - E-SI: Embodied Suction Intelligence for robotics.
+ - SH-PHAN: Self-healing robotic phantoms for repeated surgical training.
+
 - **IROS2025:**
- - Technical Session Chair of Soft Sensors and Actuators 2.
+ - Chair the Technical Session of Soft Sensors and Actuators 2.
  - Best Oral Presentation at the Workshop Bio-Inspired Robotic Perception and Control: Bridging Centralized and Decentralized Intelligence.
  - Poster Presentation at the Workshop The SOFT frontier 2: practical applications in soft robotics.
  - Twice Oral Presentations at the technical session of Soft Sensors and Actuators.
