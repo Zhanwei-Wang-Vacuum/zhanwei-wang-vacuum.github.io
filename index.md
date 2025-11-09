@@ -14,10 +14,11 @@ I am a Postdoc researcher at [Interuniversity Microelectronics Centre](https://w
 - **Microfluidics:** Microfluidic chips development and its potential for soft robots.
 
 ## News:
-- **IROS2025:** Design, fabrication, actuation, and control for soft robotics.
-- **Additive Manufacturing:** Soft and multi-functional materials 3D printing.
-- **Simulations:** Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA).
-- **Microfluidics:** Microfluidic chips development and its potential for soft robots.
+- **IROS2025:**
+ - Technical Session Chair of Soft Sensors and Actuators 2.
+ - Best Oral Presentation at the Workshop Bio-Inspired Robotic Perception and Control: Bridging Centralized and Decentralized Intelligence.
+ - Poster Presentation at the Workshop The SOFT frontier 2: practical applications in soft robotics.
+ - Twice Oral Presentations at the technical session of Soft Sensors and Actuators.
 
 {% include_relative _includes/publications.md %}
 
