@@ -13,11 +13,19 @@ I am a Postdoc researcher at [Interuniversity Microelectronics Centre](https://w
 - **Simulations:** Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA).
 - **Microfluidics:** Microfluidic chips development and its potential for soft robots.
 
+## News:
+- **IROS2025:** Design, fabrication, actuation, and control for soft robotics.
+- **Additive Manufacturing:** Soft and multi-functional materials 3D printing.
+- **Simulations:** Computational Fluid Dynamics (CFD) and Finite Element Analysis (FEA).
+- **Microfluidics:** Microfluidic chips development and its potential for soft robots.
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/conference.md %}
 
 {% include_relative _includes/contact.md %}
+
+{% include_relative _includes/news.md %}
 <!-- <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2024-2025 academic job market, looking for faculty positions related to Soft robotics, Mechanical Engineering, Fluid Mechanics, and Stimulus-responsive materials. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong> -->
 
 
